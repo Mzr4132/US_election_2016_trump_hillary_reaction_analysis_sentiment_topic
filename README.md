@@ -5,3 +5,6 @@ This notebook contains a project that analyzed 670.000 tweets from the run up to
 In the second part of this notebook a topic analysis is done. The goal here is to determine how much different topics are discussed and secondly to see what is roughly discussed in these topics. The results of this are visualized and clickable. 3 topics per candidate were determined to be optimal, based on self testing and coherence score from the LDA algorithm. Before anything took place characters were lower cased, the text was lemmetized.
 
 Results of the 3 topics for Trump's positive responses indicate one about overall positivity about winning the election, news stations and the weather. The negative topics would be about taxes, lying and political opponents to Trump. For Hillary the positive topics would consist of her party slogan, news stations and political allies. The negative topics are themed around calling Clinton a liar, about her political past and about political opponents attacking her campaign.
+
+Data is available here: 
+https://onedrive.live.com/?id=DF3D4CFD086B9DF1%21228&cid=DF3D4CFD086B9DF1
